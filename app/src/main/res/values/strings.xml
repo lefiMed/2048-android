@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="header">2048</string>
+
+    <!-- Confirmation dialog-->
+    <string name="reset">Reset</string>
+    <string name="undo_dialog_title">Undo movement?</string>
+    <string name="undo">Undo</string>
+    <string name="undo_dialog_message">Would you like to watch an ad to return a movement?</string>
+    <string name="continue_game">Cancel</string>
+    <string name="reset_dialog_title">Reset game?</string>
+    <string name="reset_dialog_message">Are you sure you wish to reset the game?</string>
+
+    <string name="high_score">HIGH SCORE</string>
+    <string name="score">SCORE</string>
+    <string name="maxtile">MAX TILE</string>
+    <string name="timeText">ELAPSED TIME</string>
+    <string name="instructions">Join the numbers and get to the 2048 tile!</string>
+    <string name="you_win">You Win!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="paused">Paused!</string>
+    <string name="go_on">Tap to Continue</string>
+    <string name="for_now">For now…</string>
+    <string name="endless">"Endless" Mode</string>
+
+
+    <string name="admob_appid"></string>
+
+
+    <string name="banner_id"></string>
+    <string name="ad_unit_interstitial"></string>
+    <string name="rewarded_video_Ad_id"></string>
+
+    <!--    please set one string here for rewarded ads -->
+
+
+    <string name="down_tittle_splash">Developer</string>
+    <string name="play_store_link">https://play.google.com/store/apps/</string>
+    <string name="rate_app_link">https://play.google.com/store/apps/details</string>
+    <string name="prize">Undone movement!</string>
+    <string name="select_game_board_to_play_2048">Select game board to play 2048</string>
+    <string name="developer"> </string>
+    <string name="game_name">Classic Game</string>
+
+</resources>
